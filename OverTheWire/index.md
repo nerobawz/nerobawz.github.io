@@ -1,3 +1,3 @@
 
 
-[Narnia](Narnia/Narnia.md)
+[Narnia](Narnia/index.md)
